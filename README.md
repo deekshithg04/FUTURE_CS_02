@@ -11,7 +11,7 @@ The focus of this work is on analysis and awareness, not on performing any kind 
 
 ## Files  
 
-- [Phishing Report](./Phishing_Report.pdf)
+- [Phishing Report](./detection & awareness report.pdf)
 
 - Email Samples and Analysis:  
   - [Email 1 (Safe)](./email1_safe.txt)  
