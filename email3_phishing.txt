@@ -1,0 +1,29 @@
+MessageId: 8891-alert-lock@secure-alerts.net
+Created at: 4/6/2026, 2:05:33 PM GMT+5:30
+From: Security Team <alert@secure-account-verify.com>
+To: deekshith953519@gmail.com
+Subject: Urgent: Your Account Will Be Locked
+
+SPF:
+fail with IP 102.45.77.21
+
+DKIM:
+none
+
+DMARC:
+fail
+
+
+Email Body:
+
+Dear User,
+
+We noticed suspicious activity on your account.
+To avoid account suspension, please verify your details immediately.
+
+Verify Now: http://secure-account-verify.com
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Regards,
+Security Team

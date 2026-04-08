@@ -1,0 +1,29 @@
+MessageId: job-offer-221@hr-alerts.xyz
+Created at: 4/6/2026, 5:11:47 PM GMT+5:30
+From: HR Department <jobs@job-offer-portal.xyz>
+To: deekshith953519@gmail.com
+Subject: Congratulations! You Have Been Selected
+
+SPF:
+fail with IP 103.99.12.87
+
+DKIM:
+none
+
+DMARC:
+fail
+
+
+Email Body:
+
+Dear Applicant,
+
+We are pleased to inform you that you have been shortlisted for a remote job opportunity.
+
+To proceed further, kindly download the offer letter.
+
+Download Offer Letter: http://job-offer-portal.xyz
+
+Immediate response required.
+
+HR Department

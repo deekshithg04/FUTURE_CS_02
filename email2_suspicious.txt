@@ -1,0 +1,26 @@
+MessageId: 0023-suspicious-alert@unknown-domain.net
+Created at: 4/6/2026, 12:42:11 PM GMT+5:30
+From: Support Team <support@account-review-check.net>
+To: deekshith953519@gmail.com
+Subject: Important Notice Regarding Your Account
+
+SPF:
+fail with IP 185.223.90.12
+
+DKIM:
+none
+
+DMARC:
+fail
+
+
+Email Body:
+
+Dear Customer,
+
+We noticed some activity on your account. Please review your account details to ensure everything is correct.
+
+Visit: http://account-check-review.com
+
+Thank you,
+Support Team

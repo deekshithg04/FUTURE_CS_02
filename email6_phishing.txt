@@ -1,0 +1,29 @@
+MessageId: delivery-failed-552@courier-update.net
+Created at: 4/6/2026, 6:25:13 PM GMT+5:30
+From: Courier Service <notify@delivery-update-info.net>
+To: deekshith953519@gmail.com
+Subject: Delivery Attempt Failed
+
+SPF:
+fail with IP 176.88.22.10
+
+DKIM:
+none
+
+DMARC:
+fail
+
+
+Email Body:
+
+Dear Customer,
+
+We attempted to deliver your package but failed.
+
+To reschedule your delivery, confirm your details.
+
+Track Package: http://delivery-update-info.net
+
+Package will be returned if no action is taken.
+
+Courier Service

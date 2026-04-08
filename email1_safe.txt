@@ -1,0 +1,28 @@
+MessageId: 000001-safe-mail-01@bank.com
+Created at: 4/6/2026, 10:15:22 AM GMT+5:30 (Delivered after 1 sec)
+From: Your Bank <noreply@yourbank.com>
+To: deekshith953519@gmail.com
+Subject: Monthly Account Statement
+
+SPF:
+pass with IP 192.168.1.10
+
+DKIM:
+pass with domain yourbank.com
+
+DMARC:
+pass
+
+
+Email Body:
+
+Dear Deekshith,
+
+Your monthly account statement for March is now available.
+
+You can securely access your statement by logging into your official banking application.
+
+If you have any questions, please contact our customer support.
+
+Regards,
+Your Bank

@@ -1,0 +1,29 @@
+MessageId: txn-alert-9932@bank-secure.net
+Created at: 4/6/2026, 3:20:09 PM GMT+5:30
+From: Bank Security Team <alert@bank-verification-secure.net>
+To: deekshith953519@gmail.com
+Subject: Important: Unauthorized Transaction Detected
+
+SPF:
+fail with IP 45.155.205.19
+
+DKIM:
+none
+
+DMARC:
+fail
+
+
+Email Body:
+
+Dear Customer,
+
+We detected an unusual transaction of Rs. 48,500 from your account.
+
+If this was not you, please secure your account immediately.
+
+Secure Your Account: http://bank-verification-secure.net
+
+Failure to respond may result in account suspension.
+
+Bank Security Team
