@@ -9,6 +9,19 @@ The purpose of this project is to understand how phishing emails work in real-wo
 
 The focus of this work is on analysis and awareness, not on performing any kind of attack.  
 
+## Files  
+
+- [Phishing Report](./Phishing_Report.pdf)
+
+- Email Samples and Analysis:  
+  - [Email 1 (Safe)](./email1_safe.txt)  
+  - [Email 2 (Suspicious)](./email2_suspicious.txt)  
+  - [Email 3 (Phishing)](./email3_phishing.txt)  
+  - [Email 4 (Phishing)](./email4_phishing.txt)  
+  - [Email 5 (Phishing)](./email5_phishing.txt)  
+  - [Email 6 (Phishing)](./email6_phishing.txt)  
+  - [Email 7 (Phishing)](./email7_phishing.txt)  
+
 ## Objective  
 
 The main objective of this task was to:  
